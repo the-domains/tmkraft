@@ -1,0 +1,28 @@
+name: tmkraft
+favicon: null
+layout_spectrum: 0.4850333903450519
+typography_spectrum: 0.20522462972439826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16808755742385983
+  lightness: 0.4588319603353739
+  saturation: 0.7833577804267406
+  rhythmicContrast: 0.029727687127888203
+purpose: []
